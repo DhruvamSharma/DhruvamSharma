@@ -1,4 +1,5 @@
 ## Configuration
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruvamSharma" alt="DhruvamSharma" /> </p>
 
 ```sh
 # Identity Name
